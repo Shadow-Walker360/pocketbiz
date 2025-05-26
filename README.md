@@ -131,5 +131,5 @@ PocketBiz is licensed under the [MIT License](LICENSE). Feel free to use, modify
 
 ## Support
 
-If you encounter any issues or have questions, please open an issue in the repository or contact us at [support@example.com](mailto:support@example.com).
+If you encounter any issues or have questions, please open an issue in the repository or contact us at [support@example.com](mailto:joscolins6@gmail.com,victoriadatieno@gmail.com).
 
